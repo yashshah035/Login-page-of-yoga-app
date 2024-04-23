@@ -1,2 +1,2 @@
 # Login-page-of-yoga-app
-My simple log in page of yoga advisor app in python 
+Simple log in page design of yoga advisor app in python 
